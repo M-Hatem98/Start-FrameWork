@@ -3,7 +3,7 @@ import Myimage from '../../assets/avataaars.svg';
 
 export default function Home() {
   return (
-    <div className="home mt-28 bg-[#1ABC9C]">
+    <div className="home mt-18 bg-[#1ABC9C]">
       <div className="container mx-auto py-8 min-h-screen flex justify-center items-center flex-col px-4 text-center">
         
         <img 

@@ -8,7 +8,7 @@ export default function Contact() {
 
   return (
     <>
-      <div className="contact mt-[150px]">
+      <div className="contact mt-[70px]">
         <div className="container mx-auto px-4 flex justify-center items-center flex-col">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-[#2C3E50] uppercase my-8 text-center">
             contact section
