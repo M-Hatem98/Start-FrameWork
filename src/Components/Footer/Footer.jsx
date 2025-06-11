@@ -16,24 +16,28 @@ export default function Footer() {
             <a
               href="#"
               className="border border-white rounded-full py-3 px-5 hover:bg-white hover:text-[#2C3E50] transition"
+              aria-label="Facebook"
             >
               <i className="fab fa-facebook-f"></i>
             </a>
             <a
               href="#"
               className="border border-white rounded-full py-3 px-4 hover:bg-white hover:text-[#2C3E50] transition"
+              aria-label="Twitter"
             >
               <i className="fab fa-twitter"></i>
             </a>
             <a
               href="#"
               className="border border-white rounded-full py-3 px-4 hover:bg-white hover:text-[#2C3E50] transition"
+              aria-label="Linkedin"
             >
               <i className="fab fa-linkedin-in"></i>
             </a>
             <a
               href="#"
               className="border border-white rounded-full py-3 px-4 hover:bg-white hover:text-[#2C3E50] transition"
+              aria-label="Website"
             >
               <i className="fas fa-globe"></i>
             </a>
